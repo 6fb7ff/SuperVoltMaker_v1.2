@@ -1,0 +1,536 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1673517086573632, "dur":1444, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517086575082, "dur":194, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1673517086575288, "dur":23, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1673517086575311, "dur":388, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1673517086575737, "dur":435, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517086576172, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659252, "dur":189, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659441, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659464, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659467, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659479, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659481, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659488, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659489, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659494, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659496, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659499, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659500, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659505, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659506, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659509, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659510, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659514, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659515, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659519, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659520, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659524, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659525, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659528, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659529, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659533, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659534, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659538, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659539, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659543, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659544, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659548, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659549, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659552, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659562, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095659582, "dur":5457, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1673517086575669, "dur":508, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517086576179, "dur":3775, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517086579963, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1673517086579971, "dur":463, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517086580436, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1673517086580438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517086642168, "dur":698430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1673517087340602, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1673517087340697, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517087372404, "dur":1311921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1673517088684368, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517088684408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517092698642, "dur":346166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517093044856, "dur":57851, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517093102709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517093102727, "dur":702956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517093805733, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517093805785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517093805793, "dur":231262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517094037097, "dur":23157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517094060257, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517094060263, "dur":555356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517094615665, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517094615703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517094615708, "dur":611000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1673517095226760, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1673517095226802, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1673517095226808, "dur":410829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1673517095637685, "dur":21571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517086575694, "dur":487, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517086576181, "dur":3776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517086579963, "dur":539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1673517086580504, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517087078303, "dur":1605998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1673517088684343, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517088684381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517089509296, "dur":3471210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517092980549, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517092980603, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517092980609, "dur":326775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517093307441, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517093307481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517093307485, "dur":284135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517093591670, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517093591701, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517093591727, "dur":250290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517093842069, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517093842099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517093842103, "dur":257125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517094099290, "dur":637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517094099931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517094099938, "dur":246827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517094346834, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517094346867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517094346872, "dur":240476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517094587401, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517094587453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517094587460, "dur":445553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1673517095033058, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1673517095033094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1673517095033099, "dur":613167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1673517095646318, "dur":12945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517086575710, "dur":476, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517086576186, "dur":3770, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517086579963, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1673517086580119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517087100198, "dur":1584120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1673517088684360, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517088684405, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517089509305, "dur":3471206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517092980561, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517092980611, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517092980617, "dur":326773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517093307439, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517093307473, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517093307476, "dur":284153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517093591671, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517093591727, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517093591731, "dur":250299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517093842070, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517093842101, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517093842104, "dur":257119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517094099286, "dur":24725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517094124015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517094124020, "dur":703249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517094827319, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517094827388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517094827394, "dur":733642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1673517095561089, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1673517095561196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1673517095561199, "dur":93353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1673517095654584, "dur":4680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517086575730, "dur":460, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517086576190, "dur":3765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517086579963, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1673517086580247, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517086874172, "dur":476645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1673517087350857, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1673517087350926, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517087350930, "dur":1333367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1673517088684347, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517088684408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517089509312, "dur":3471203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517092980574, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517092980623, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517092980628, "dur":314638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517093295305, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517093295332, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517093295337, "dur":208124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517093503508, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517093503546, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517093503553, "dur":176990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517093680592, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517093680633, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517093680637, "dur":356400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517094037085, "dur":95052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517094132141, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517094132147, "dur":1428882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1673517095561086, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1673517095561120, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1673517095561124, "dur":93459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1673517095654610, "dur":4643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517086575756, "dur":437, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517086576194, "dur":3767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517086579962, "dur":413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1673517086580376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517086874190, "dur":937787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1673517087812027, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1673517087812115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517092705027, "dur":265497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1673517092970567, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517092970602, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517092970607, "dur":187632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093158295, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093158339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517093158344, "dur":285953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093444342, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093444380, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517093444386, "dur":185049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093629477, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093629513, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517093629515, "dur":313131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093942709, "dur":44685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517093987397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517093987402, "dur":672402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517094659843, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517094659870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517094659874, "dur":566820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1673517095226759, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1673517095226807, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1673517095226811, "dur":410839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1673517095637688, "dur":21581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517086575775, "dur":423, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517086576198, "dur":3775, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517086579973, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1673517086580114, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517086874179, "dur":544367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1673517087418585, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517087418657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517087597287, "dur":5107774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517092705112, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517092705169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517092748793, "dur":409472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093158314, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093158361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517093158412, "dur":276295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093434747, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093434776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517093434781, "dur":194627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093629450, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093629506, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517093629511, "dur":313130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093942711, "dur":41430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517093984145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517093984150, "dur":675658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517094659844, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517094659882, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517094659887, "dur":542325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1673517095202267, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1673517095202306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1673517095202312, "dur":430072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1673517095632441, "dur":26814, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517086575792, "dur":410, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517086576202, "dur":3764, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517086579967, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1673517086580279, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517086944837, "dur":1739485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1673517088684372, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517088684410, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517089509310, "dur":3535502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093044859, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093044915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517093044921, "dur":334773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093379738, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093379767, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517093379772, "dur":249629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093629446, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093629476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517093629498, "dur":313159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093942722, "dur":35123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517093977849, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517093977855, "dur":613579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517094591478, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517094591516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517094591521, "dur":441481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1673517095033053, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1673517095033172, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1673517095226721, "dur":382191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1673517095608952, "dur":50302, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517086575809, "dur":396, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517086576205, "dur":3753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517086579962, "dur":653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1673517086580617, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517086874153, "dur":744928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1673517087619128, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2.exe" }}
+,{ "pid":12345, "tid":8, "ts":1673517087619177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517087619182, "dur":5129635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2.exe" }}
+,{ "pid":12345, "tid":8, "ts":1673517092748861, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517092748898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517092748903, "dur":350601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093099555, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093099590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517093099595, "dur":280109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093379751, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093379792, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517093379796, "dur":249599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093629443, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093629479, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517093629504, "dur":283282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093912853, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517093912906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517093912914, "dur":186352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517094099312, "dur":15317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517094114633, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517094114639, "dur":866859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517094981545, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517094981593, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1673517094981599, "dur":625771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1673517095607437, "dur":51815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517086575829, "dur":379, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517086576209, "dur":3766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517086579975, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1673517086580113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517086874156, "dur":544370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1673517087418566, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1673517087418645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517087418649, "dur":5286408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1673517092705111, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517092705167, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517092748788, "dur":409468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517093158306, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517093158347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517093158352, "dur":285971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517093444372, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517093444421, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517093444424, "dur":236111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517093680591, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517093680634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517093680664, "dur":356401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094037115, "dur":767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094037885, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517094037891, "dur":219299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094257235, "dur":539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094257776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517094257781, "dur":189532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094447376, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094447427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517094447434, "dur":168181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094615661, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517094615707, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517094615712, "dur":611001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1673517095226758, "dur":626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1673517095227387, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1673517095227390, "dur":426481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1673517095653915, "dur":5350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517086575851, "dur":361, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517086576212, "dur":3747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517086579964, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1673517086580281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517086874219, "dur":937761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1673517087812029, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517087812065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517088685727, "dur":4294792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517092980574, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517092980616, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517092980619, "dur":326754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517093307411, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517093307441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517093307445, "dur":284170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517093591665, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517093591699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517093591723, "dur":250299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517093842067, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517093842097, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517093842102, "dur":257137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094099287, "dur":639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094099930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517094099938, "dur":223703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094323690, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094323725, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517094323729, "dur":263624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094587402, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094587444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517094587451, "dur":405246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094992745, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517094992784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1673517094992790, "dur":615536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1673517095608370, "dur":50880, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517086575865, "dur":351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517086576216, "dur":3754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517086579974, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1673517086580147, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517087100216, "dur":518839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1673517087619106, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517087619209, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517087619211, "dur":5324563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517092943816, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517092943854, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517092943858, "dur":214375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517093158291, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517093158341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517093158346, "dur":285982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517093444373, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517093444406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517093444410, "dur":236115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517093680590, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517093680628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517093680635, "dur":356434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517094037114, "dur":18030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517094055147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517094055153, "dur":536285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517094591478, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517094591516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517094591521, "dur":401180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517094992749, "dur":26501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517095019254, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1673517095019260, "dur":639925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1673517095659223, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1673517095659224, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517086575882, "dur":338, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517086576220, "dur":3742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517086579965, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1673517086580260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517087100188, "dur":1584125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1673517088684351, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517088684401, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517089509299, "dur":3471199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517092980544, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517092980601, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517092980605, "dur":366166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517093346812, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517093346846, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517093346942, "dur":282487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517093629478, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517093629508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517093629512, "dur":313139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517093942700, "dur":24646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517093967350, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517093967356, "dur":492985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517094460376, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517094460408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517094460412, "dur":276857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517094737317, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517094737360, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1673517094737364, "dur":870009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1673517095607439, "dur":51812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517086575900, "dur":323, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517086576223, "dur":3746, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517086579970, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1673517086580113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517086874160, "dur":744901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1673517087619109, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1673517087619205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517087619208, "dur":5129612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1673517092748870, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517092748913, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517092748917, "dur":409356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517093158314, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517093158352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517093158357, "dur":285933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517093444341, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517093444392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517093444397, "dur":236153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517093680592, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517093680633, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517093680661, "dur":356372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094037086, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094037821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517094037828, "dur":232862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094270740, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094270791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517094270799, "dur":200240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094471082, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094471110, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517094471131, "dur":266132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094737310, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517094737349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517094737356, "dur":660782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1673517095398186, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1673517095398228, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1673517095398256, "dur":256249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1673517095654543, "dur":4718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517086575928, "dur":298, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517086576226, "dur":3739, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517086579972, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1673517086580113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517086874228, "dur":937772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1673517087812042, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517087812087, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517089509250, "dur":3471252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517092980547, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517092980583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517092980587, "dur":366161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517093346800, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517093346834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517093346839, "dur":282532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517093629407, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517093629450, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517093629456, "dur":313207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517093942717, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517093942766, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517093942770, "dur":262634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517094205455, "dur":15214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517094220673, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517094220679, "dur":1177446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1673517095398169, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1673517095398218, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1673517095398224, "dur":253775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1673517095652053, "dur":7205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517086575944, "dur":286, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517086576230, "dur":3747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517086579977, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1673517086580116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517086874182, "dur":721022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1673517087595249, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517087595336, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517087619048, "dur":5313125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517092932216, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517092932253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517092932258, "dur":225989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517093158290, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517093158328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517093158333, "dur":285960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517093444345, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517093444396, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517093444401, "dur":236127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517093680593, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517093680630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517093680635, "dur":356425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517094037109, "dur":14670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517094051783, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517094051790, "dur":563855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517094615683, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517094615723, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517094615727, "dur":610973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1673517095226754, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1673517095226872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1673517095226877, "dur":410767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1673517095637689, "dur":21570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517086575963, "dur":270, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517086576233, "dur":3730, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517086579965, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1673517086580219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517086874212, "dur":937784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1673517087812037, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517087812071, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517089508085, "dur":3536731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093044860, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093044895, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517093044900, "dur":334798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093379739, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093379771, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517093379775, "dur":249592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093629415, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093629460, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517093629465, "dur":313145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093942664, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517093942722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517093942731, "dur":212431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517094155224, "dur":515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517094155742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517094155747, "dur":191022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517094346837, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517094346881, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517094346885, "dur":240455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517094587400, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517094587457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517094587462, "dur":445555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1673517095033054, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1673517095033104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1673517095080960, "dur":527403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/SuperVoltMaker_/SuperVoltMaker_v1.2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1673517095608396, "dur":50864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1673517095667014, "dur":1326, "ph":"X", "name": "ProfilerWriteOutput" }
+,
